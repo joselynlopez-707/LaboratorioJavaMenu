@@ -4,7 +4,7 @@
 Este proyecto contiene un programa en Java que integra múltiples ejercicios dentro de un solo menú interactivo.
 
 #Objetivo:
-Aplicar:
+utilizar:
 - Modularización mediante métodos
 - Estructuras de control
 - Validación con try-catch
@@ -29,3 +29,4 @@ Aplicar:
 #Manera de ejecutar:
 
 1. Seleccionar una opción del menú.
+
